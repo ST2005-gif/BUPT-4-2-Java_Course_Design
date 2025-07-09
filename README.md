@@ -6,6 +6,8 @@
 
 项目为单人项目，在原本基础功能的要求下增加了发送图片功能
 
+代码思路参考了[这位学长](https://github.com/moyuhuashu1/bupt-cs-project/tree/main/Java/%E5%A4%A7%E4%BD%9C%E4%B8%9A)
+
 ### 项目设定
 使用语言：Java
 
